@@ -13,5 +13,5 @@
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="border-radius: 0px;"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="border-radius: 0px;"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="border-radius: 0px;"></code>
-  <code align="center"><p align="center">...and more</p></code>
+  <p align="center">...and more</p>
 </p>

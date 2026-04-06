@@ -4,13 +4,14 @@
   please give me some time to sleep and drink energy drinks
 </p>
 
-### Tech Stack
+<h2 align="center">What i know and can do</h2> 
 
 <p align="center">
-  ⚛️ React &nbsp;&nbsp;|&nbsp;&nbsp;
-  📘 TypeScript &nbsp;&nbsp;|&nbsp;&nbsp;
-  💛 JavaScript &nbsp;&nbsp;|&nbsp;&nbsp;
-  🔷 C# &nbsp;&nbsp;|&nbsp;&nbsp;
-  🐍 Python &nbsp;&nbsp;|&nbsp;&nbsp;
-  🐳 Docker
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="border-radius: 0px;"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="border-radius: 0px;"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="border-radius: 0px;"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="border-radius: 0px;"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="border-radius: 0px;"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="border-radius: 0px;"></code>
+  <code align="center"><p align="center">...and more</p></code>
 </p>

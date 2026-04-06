@@ -4,7 +4,7 @@
   please give me some time to sleep and drink energy drinks
 </p>
 
-<h2 align="center">What i know and can do</h2> 
+<h2 align="center">My stack</h2> 
 
 <p align="center">
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="border-radius: 0px;"></code>
